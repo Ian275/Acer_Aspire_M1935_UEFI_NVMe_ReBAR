@@ -10,5 +10,5 @@ BIOS version: P11-B1
 VarOffset: 0x1<br>
 ![VarOffset: 0x1](https://github.com/Ian275/Ian2561376/blob/main/VarOffset_0x1.png)
 
-只有 P11-B1_Original.rom 可以使用 AFUWINGUI.exe 燒錄
+只有 P11-B1_Original.rom 可以使用 AFUWINGUI.exe 燒錄<br>
 燒錄前請先檢查CMOS電池是否安裝或有電，否則可能會燒錄失敗！
