@@ -14,3 +14,5 @@ VarOffset: 0x1<br>
 使用 AFUWINGUI.exe 燒錄要選擇 "Program ALL Blocks" 否則會失敗！<br>
 
 燒錄前請先檢查CMOS電池是否安裝並且有電，否則可能會燒錄失敗！
+
+此 BIOS 非完整的 BIOS ，請不要直接使用燒錄器燒錄！
