@@ -4,8 +4,8 @@ Acer IPIMB-AR_P11-B1_Update
 BIOS version: P11-B1
 
 可支援顯示卡 UEFI 啟動和 Secure boot<br>
-支援 NVMe 啟動<br>
-[來源](https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901)
+支援 NVMe 啟動
+[來源](https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901)<br>
 加入由 xCuri0 製作的 [ReBarDxe](https://github.com/xCuri0/ReBarUEFI) ，可啟用 Resizable BAR<br>
 開啟 Resizable BAR 需要啟用 [Above 4G Decoding](https://github.com/xCuri0/ReBarUEFI/wiki/Enabling-hidden-4G-decoding)<br> 
 VarOffset: 0x1<br>
