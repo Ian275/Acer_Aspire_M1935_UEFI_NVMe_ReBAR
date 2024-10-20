@@ -1,4 +1,4 @@
-# IPIMB-AR_P11-B1_UEFI
+# IPIMB-AR UEFI
 Acer IPIMB-AR_P11-B1_Update
 
 BIOS version: P11-B1
