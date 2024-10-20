@@ -12,7 +12,8 @@ VarOffset: 0x1<br>
 
 只有 P11-B1_Original.rom 可以使用 AFUWINGUI.exe 燒錄<br>
 使用 AFUWINGUI.exe 燒錄要選擇 "Program ALL Blocks" 否則會失敗！<br>
-![Program ALL Blocks](https://github.com/Ian275/Acer_Aspire_M1935_UEFI_NVMe_ReBAR/blob/main/afuwin.png)
+![Program ALL Blocks](https://github.com/Ian275/Acer_Aspire_M1935_UEFI_NVMe_ReBAR/blob/main/afuwin.png)<br>
+![FLASH](https://github.com/Ian275/Acer_Aspire_M1935_UEFI_NVMe_ReBAR/blob/main/afuwinflash.JPG)
 
 燒錄前請先檢查CMOS電池是否安裝並且有電，否則可能會燒錄失敗！
 
